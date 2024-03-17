@@ -3,7 +3,7 @@
 
 - Hi, I'm **an Undergraduate**
 
-- 🎓 I’m currently Studying **Bsc. Computer Science at University of Westminster**
+- 🎓 I’m currently Studying **BSc. Computer Science at University of Westminster**
 
 - 💬 Ask me about **Java, Python, Android**
 
